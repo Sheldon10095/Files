@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="0.1">
+    <name>SplatfestDL CodeLoader</name>
+    <coder>Sheldon</coder>
+	<url>https://discord.gg/HcQKQUG</url>
+    <version>0.1</version>
+    <release_date>202002170000000</release_date>
+    <short_description>Custom Splatfest CodeLoader!</short_description>
+	<long_description>I am not responsible if anything bad happens. You can only play Splatfest Battles with SplatfestDL when a Splatfest is happening.
+</long_description>
+	<category>game</category>
+</app>
