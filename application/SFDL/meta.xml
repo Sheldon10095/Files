@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<app version="0.6.0">
+<app version="0.6.2">
     <name>Splatfest DL</name>
     <coder>Sheldon</coder>
-	<url>https://discord.gg/HcQKQUG</url>
-    <version>0.6.0</version>
+	<url>https://discord.gg/grMSxZf</url>
+    <version>0.6.2</version>
     <release_date>202002090000000</release_date>
     <short_description>Play custom Splatfests!</short_description>
-	<long_description>Run the IOSU Exploit before running this!
+	<long_description>Run MochaCFW SD before running this!
 	
 Hold L while running this app to remove the current Custom Splatfest!
 
-This tool allows you to play custom Splatfests in Splatoon. For more information, join my discord server at https://discord.gg/HcQKQUG. I am not responsible if anything bad happens. You can only play Splatfest Battles with SplatfestDL when a Splatfest is happening.
+This tool allows you to play custom Splatfests in Splatoon. For more information, join the Custom Splatfest discord server at https://discord.gg/grMSxZf. I am not responsible if anything bad happens (However, nothing bad should happen).
 </long_description>
 	<category>tool</category>
 </app>
