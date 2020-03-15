@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<app version="0.1">
+<app version="0.4.1">
     <name>Splatfest DL CodeLoader</name>
     <coder>Sheldon</coder>
 	<url>https://discord.gg/HcQKQUG</url>
-    <version>0.1</version>
+    <version>0.4.1</version>
     <release_date>202002170000000</release_date>
     <short_description>Custom Splatfest CodeLoader!</short_description>
 	<long_description>Splatoon Custom Splatfest launcher!
 	I am not responsible if anything bad happens. You can only play Splatfest Battles with SplatfestDL when a Splatfest is happening, but patches should always work!
 	Current Patches:
 	 • Power Reset (I hope)
+	 • Possible save wiping --> BACK UP YOUR SAVE. I WILL FIX THIS EVENTUALLY
 </long_description>
 	<category>tool</category>
 </app>
