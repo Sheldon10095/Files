@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<app version="0.4.6">
+<app version="0.5.0">
     <name>Splatfest DL CodeLoader</name>
     <coder>Sheldon</coder>
 	<url>https://discord.gg/HcQKQUG</url>
-    <version>0.4.6</version>
+    <version>0.5.0</version>
     <release_date>202002170000000</release_date>
     <short_description>Custom Splatfest CodeLoader!</short_description>
 	<long_description>Splatoon Custom Splatfest launcher!
