@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<app version="0.7.0">
+<app version="0.7.1">
     <name>Splatfest DL</name>
     <coder>Sheldon</coder>
 	<url>https://discord.gg/grMSxZf</url>
-    <version>0.7.0</version>
+    <version>0.7.1</version>
     <release_date>202002090000000</release_date>
     <short_description>Play custom Splatfests!</short_description>
 	<long_description>Run MochaCFW SD before running this!
